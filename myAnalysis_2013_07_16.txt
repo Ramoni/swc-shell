@@ -1,0 +1,500 @@
+  120  g++ -Wall buildLinkList.cpp -o buildLinkList
+  121  clear
+  122  g++ -Wall buildLinkList.cpp -o buildLinkList
+  123  vi buildLinkList.cpp
+  124  g++ -Wall buildLinkList.cpp -o buildLinkList
+  125  clear
+  126  g++ -Wall buildLinkList.cpp -o buildLinkList
+  127  ./buildLinkList
+  128  vi buildLinkList.cpp
+  129  g++ -Wall buildLinkList.cpp -o buildLinkList
+  130  ./buildLinkList
+  131  vi buildLinkList.cpp
+  132  g++ -Wall buildLinkList.cpp -o buildLinkList
+  133  ./buildLinkList
+  134  cp buildLinkList.cpp buildLinkList1.cpp
+  135  vi buildLinkList1.cpp
+  136  g++ -Wall buildLinkList.cpp -o buildLinkList
+  137  ./buildLinkList
+  138  vi buildLinkList1.cpp
+  139  g++ -Wall buildLinkList.cpp -o buildLinkList
+  140  ./buildLinkList
+  141  g++ -Wall buildLinkList1.cpp -o buildLinkList1
+  142  vi buildLinkList1.cpp
+  143  g++ -Wall buildLinkList1.cpp -o buildLinkList1
+  144  clear
+  145  g++ -Wall buildLinkList1.cpp -o buildLinkList1
+  146  vi buildLinkList1.cpp
+  147  g++ -Wall buildLinkList1.cpp -o buildLinkList1
+  148  vi buildLinkList1.cpp
+  149  vi buildLinkList1.cpp
+  150  vi buildLinkList1.cpp
+  151  cd Google/CPP
+  152  clear
+  153  vi buildLinkList.cpp
+  154  vi buildLinkList1.cpp
+  155  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  156  vi buildLinkList1.cpp
+  157  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  158  clear
+  159  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  160  vi buildLinkList1.cpp
+  161  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  162  vi buildLinkList1.cpp
+  163  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  164  vi buildLinkList1.cpp
+  165  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  166  clear
+  167  vi buildLinkList1.cpp
+  168  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  169  vi buildLinkList1.cpp
+  170  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  171  vi buildLinkList1.cpp
+  172  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  173  ./buildLinkList1.cpp
+  174  ./buildLinkList1
+  175  vi buildLinkList1.cpp
+  176  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  177  vi buildLinkList1.cpp
+  178  clear
+  179  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  180  vi buildLinkList1.cpp
+  181  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  182  vi buildLinkList1.cpp
+  183  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  184  vi buildLinkList1.cpp
+  185  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  186  vi buildLinkList1.cpp
+  187  g++ -Wall  buildLinkList1.cpp -o buildLinkList1
+  188  ./buildLinkList1
+  189  vi buildLinkList1.cpp
+  190  vi buildLinkList.cpp
+  191  g++ -Wall  buildLinkList.cpp -o buildLinkList
+  192  ./buildLinkList
+  193  which git
+  194  kate
+  195  gedit
+  196  cd Google/CPP
+  197  gedit buildLinkList.cpp
+  198  apt -get git
+  199  clear
+  200  cd/
+  201  cd ./
+  202  cd /
+  203  pwd
+  204  clear
+  205  git
+  206  cd /
+  207  pwd
+  208  apt-get install git
+  209  pwd
+  210  ls -f
+  211  ls -F
+  212  cd Downloads
+  213  ls
+  214  cd ..
+  215  mkdir Canopy
+  216  cp /Downloads/can*.* /Canopy
+  217  cp Downloads/can*.* /Canopy
+  218  ls
+  219  clear
+  220  cd Downloads
+  221  ls
+  222  cd..
+  223  cd ..
+  224  ls
+  225  cp ./Downloads/can*.* ./Canopy
+  226  cd Canopy
+  227  dir
+  228  ls
+  229  bash 
+  230  bash canopy-1.0.3-rh5-64.sh
+  231  /home/ramoni/Canopy/canopy
+  232  clear
+  233  which git
+  234  gedit
+  235  Anaconda
+  236  cd ..
+  237  clear
+  238  mkdir Anaconda
+  239  ls -F
+  240  pwd
+  241  cd Downloads
+  242  ls
+  243  pwd
+  244  cd ..
+  245  clear
+  246  cd Downloads
+  247  ls
+  248  bash Anaconda-1.6.1-Linux-x86_64.sh
+  249  bash Anaconda-1.6.1-Linux-x86_64.sh
+  250  cd ..
+  251  .bashrc
+  252  ls
+  253  rm Anaconda
+  254  ls -F
+  255  rm Anaconda
+  256  cd Anaconda
+  257  ls
+  258  cd ..
+  259  rmdir Anaconda
+  260  ls
+  261  cd anaconda
+  262  ls
+  263  clea
+  264  clear
+  265  ls -f
+  266  ls -F
+  267  cd bin
+  268  ls
+  269  le/CPP
+  270  gedit buildLinkList.cpp
+  271  apt -get git
+  272  clear
+  273  cd/
+  274  cd ./
+  275  cd /
+  276  pwd
+  277  clear
+  278  git
+  279  cd /
+  280  pwd
+  281  apt-get install git
+  282  pwd
+  283  ls -f
+  284  ls -F
+  285  cd Downloads
+  286  ls
+  287  cd ..
+  288  mkdir Canopy
+  289  cp /Downloads/can*.* /Canopy
+  290  cp Downloads/can*.* /Canopy
+  291  ls
+  292  clear
+  293  cd Downloads
+  294  ls
+  295  cd..
+  296  cd ..
+  297  ls
+  298  cp ./Downloads/can*.* ./Canopy
+  299  cd Canopy
+  300  dir
+  301  ls
+  302  bash 
+  303  ls
+  304  cd Downloads
+  305  ls
+  306  which sqlite3
+  307  ./sqlite3
+  308  ls
+  309  sqlite3
+  310  ./sqlite3
+  311  bash sqlite3
+  312  clear
+  313  which sqlite3
+  314  ./sqlite3
+  315  cd Downloads
+  316  ls
+  317  cd ..
+  318  wget http://www.sqlite.org/sqlite-autoconf-3070603.tar.gz
+  319  clear
+  320  ls
+  321  tar xvfz sqlite-autoconf-3070603.tar.gz
+  322  cd sqlite-autoconf-3070603
+  323  ./configure
+  324  make
+  325  make install
+  326  make install
+  327  clear
+  328  ./configure
+  329  make
+  330  make install
+  331  ./sqlite3
+  332  cd ..
+  333  clear
+  334  ./sqlite3
+  335  ls
+  336  ren 
+  337  clear
+  338  ls
+  339  clear
+  340  clear
+  341  ls -F
+  342  cd sqlite-autoconf-3070603
+  343  ls
+  344  ./sqlite3
+  345  which java
+  346  pwd
+  347  ls -F
+  348  cd Downloads
+  349  ls
+  350  cd ..
+  351  clear
+  352  tar xvfz hadoop-1.1.2.tar.gz
+  353  cd Downloads
+  354  tar xvfz hadoop-1.1.2.tar.gz
+  355  ls
+  356  which java
+  357  clear
+  358  ls -F
+  359  rmdir hadoop-1.1.2
+  360  cd hadoop-1.1.2
+  361  ls
+  362  rm .
+  363  clear
+  364  ls
+  365  rm ha*
+  366  ls
+  367  rm b*
+  368  rm L*
+  369  rm N*
+  370  rm R*
+  371  rm C*
+  372  clear
+  373  ls
+  374  rm i*
+  375  rm ivy.xml
+  376  ls
+  377  clear
+  378  ls
+  379  cd ..
+  380  rm -r hadoop-1.1.2
+  381  clear
+  382  ls
+  383  cd ..
+  384  ls
+  385  cp Downloads/had*
+  386  cp Downloads/hadoop-1.1.2.tar.gz
+  387  ls
+  388  cd Downloads
+  389  cp had* ramoni/
+  390  cp had* .. ramoni/
+  391  cp had* .. /ramoni
+  392  cp had* ../ramoni
+  393  clear
+  394  cd ..
+  395  ls
+  396  pwd
+  397  cd Downloads
+  398  cp had* /home/ramoni
+  399  cd ..
+  400  ls
+  401  tar xvfz hadoop-1.1.2.tar.gz
+  402  clear
+  403  ls
+  404  cd hadoop-1.1.2
+  405  ls
+  406  cd conf
+  407  ls
+  408  gedit ssl-client.xml.example
+  409  gedit ssl-server.xml.example
+  410  cl
+  411  clear
+  412  ls
+  413  gedit hadoop-env.sh
+  414  ssh-keygen -t rsa -P ""
+  415  ls
+  416  gedit core-site.xml
+  417  gedit mapred-site.xml
+  418  sqlite3
+  419  pwd
+  420  ls -F
+  421  ls
+  422  clear
+  423  clear
+  424  ls
+  425  cd sqlite-autoconf-3070603
+  426  sqlite3
+  427  sqlite
+  428  ls
+  429  cd sqlite3
+  430  sqlite3
+  431  ls -F
+  432  which sqlite3
+  433  sqlite3
+  434  cd ..
+  435  clear
+  436  ls
+  437  cd anaconda
+  438  ls
+  439  cd ..
+  440  pwd
+  441  clear
+  442  ls
+  443  cd ramoni
+  444  pwd
+  445  ls -F
+  446  cd sqlite-autoconf-3070603
+  447  ls
+  448  sqlie
+  449  sqlite
+  450  sqlite3
+  451  cd ..
+  452  clear
+  453  ls
+  454  cd Downloads
+  455  ls
+  456  sqlite3
+  457  ls -F
+  458  cd ..
+  459  ls
+  460  cd canopy
+  461  ls
+  462  cd scripts
+  463  ls
+  464  cd ..
+  465  cd ..
+  466  ls
+  467  cd sqlite-autoconf-3070603
+  468  sqlie;
+  469  sqlite3;
+  470  ls
+  471  clear
+  472  ls
+  473  sqlite3;
+  474  sudo apt-get install sqlite3
+  475  sqlite3
+  476  sqlite3
+  477  clear
+  478  sqlite3
+  479  Ipython Notenook
+  480  pyhob
+  481  python
+  482  clear
+  483  ls
+  484  cd anaconda
+  485  Ipython Notebook
+  486  cd ..clear
+  487  cd ..
+  488  clear
+  489  ipython notebook
+  490  ipython notebook
+  491  python
+  492  ipython notebook
+  493  ipython notebook
+  494  ipython notebook
+  495  ipython notebook
+  496  ipython notebook
+  497  ipython notebook
+  498  sudo pip install ipython-doctester
+  499  sudo pip install ipython-doctester
+  500  pwd
+  501  cp data.txt data_copy.txt
+  502  cd swc
+  503  cp data.txt data_copy.txt
+  504  ls
+  505  clear
+  506  mkdir temp
+  507  ls
+  508  mv data.txt temp/
+  509  ls
+  510  cd temp
+  511  ls
+  512  cd ..
+  513  mv data_copy.txt data_copy2.txt
+  514  ls
+  515  mv data_copy2.txt temp/
+  516  ls
+  517  clear
+  518  mv data.txt ../
+  519  mv data.txt .. /
+  520  mv data.txt ../swc
+  521  ls
+  522  cd temp
+  523  mv data.txt ../swc
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd swc
+  528  clear
+  529  ls
+  530  cd swc
+  531  ls
+  532  ls
+  533  cd swc
+  534  cd ..
+  535  ls
+  536  clear
+  537  ls
+  538  cd swc
+  539  ls
+  540  cd temp
+  541  ls
+  542  cp data_copy2.txt ../swc/
+  543  cp data_copy2.txt ../swc
+  544  ls
+  545  cd ..
+  546  ls
+  547  ls
+  548  cd temp
+  549  cp data_copy2.txt ../swc/data.txt
+  550  ls
+  551  cp data_copy2.txt swc/data.txt
+  552  cp data_copy2.txt ../swc/data.txt
+  553  cd swc
+  554  cd ..
+  555  clear
+  556  ls
+  557  cat swc
+  558  mv swc data.txt
+  559  ls
+  560  cd temp
+  561  ls
+  562  cd ..
+  563  clear
+  564  ls
+  565  cd ..
+  566  mkdir backup
+  567  cd backup
+  568  cp ../swc/data.txt
+  569  ls
+  570  cp ../swc/data.txt data.txt
+  571  ls
+  572  mv data.txt data_backup_2013.txt
+  573  ls
+  574  cd ../swc
+  575  ls
+  576  mw data.txt data_original_file.txt
+  577  mv data.txt data_original_file.txt
+  578  ls
+  579  clear
+  580  ls
+  581  cat data_littlebearriver_2013.txt 
+  582  mv data_original_file.txt data.txt
+  583  ls
+  584  ls
+  585  clear
+  586  ls
+  587  sort -k 3 data_littlebearriver_2013.txt 
+  588  sort -k 3 -n data_littlebearriver_2013.txt 
+  589  sort -k 3 -n data_littlebearriver_2013.txt > sorted_rate.txt
+  590  ls
+  591  cat sorted_rate.txt 
+  592  tail sorted_rate.txt 
+  593  tail -1 sorted_rate.txt 
+  594  clear
+  595  tail -1 sorted_rate.txt 
+  596  ls
+  597  cat sorted_rate.txt
+  598  head -1 sorted_rate.txt 
+  599  sort -r sorted_rate.txt
+  600  sort -r 3 sorted_rate.txt
+  601  sort -r -3 sorted_rate.txt
+  602  sort -r -k 3 sorted_rate.txt
+  603  clear
+  604  sort -r -k 3 sorted_rate.txt
+  605  sort -k 3 -n data_littlebearriver_2013.txt > sorted_rate.txt | head -1
+  606  sort -k 3 -n data_littlebearriver_2013.txt | head -1
+  607  ls
+  608  python avg_discharge_rate.py data_littlebearriver_2013.txt 
+  609  python avg_discharge_rate.py data_littlebearriver_2013.txt | -k 2 n
+  610  python avg_discharge_rate.py data_littlebearriver_2013.txt | sort -k 2 n
+  611  python avg_discharge_rate.py data_littlebearriver_2013.txt | sort -k 2 -n | -tal -1
+  612  python avg_discharge_rate.py data_littlebearriver_2013.txt | sort -k 2 -n | -tail -1
+  613  python avg_discharge_rate.py data_littlebearriver_2013.txt | sort -k 2 -n | tail -1
+  614  python avg_discharge_rate.py data_littlebearriver_2013.txt | sort -k 2 -n | tail -1 > average.txt
+  615  cat average.txt 
+  616  gedit avg_discharge_rate.py
+  617  clear
+  618  history
+  619  history > myAnalysis_2013_07_16.txt
